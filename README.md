@@ -1,5 +1,7 @@
 
-# ' <a href="prankys-resturant.netlify.app">GO LIVE</a> " - Click here to visit
+
+# GO LIVE HERE - https://prankys-resturant.netlify.app
+# (Give some time to load)
 ### `npm start`
 Runs the app in the development mode.\
 ### `npm test`
